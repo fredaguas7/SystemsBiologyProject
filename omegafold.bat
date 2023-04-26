@@ -1,0 +1,1 @@
+omegafold matched_sequences.fasta C:\Users\folder --num_cycle 2 --subbatch_size 128
